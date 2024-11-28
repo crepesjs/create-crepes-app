@@ -2,4 +2,4 @@
 
 Create crepes app for crepes.
 
-[create-crepes-app]: https://crates.io/crates/crepes
+[create-crepes-app]: HTTPS://crates.io/crates/crepes
